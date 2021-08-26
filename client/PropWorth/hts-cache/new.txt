@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+00:05:44	232/232	---M--	404	error ('NOT%20FOUND')	text/html	date:Wed,%2007%20Apr%202021%2018:35:44%20GMT	https://web-app23.herokuapp.com/robots.txt		(from )
+00:05:44	27827/27827	---M--	200	added ('OK')	text/html	date:Wed,%2007%20Apr%202021%2018:35:44%20GMT	https://web-app23.herokuapp.com/	C:/Users/Soumyadeep/Downloads/PropWorth/web-app23.herokuapp.com/index.html	(from )
+00:05:45	1150/1150	---M--	200	added ('OK')	image/vnd.microsoft.icon	etag:%221617797998.0-1150-2206009835%22	https://web-app23.herokuapp.com/static/my_favicon.ico	C:/Users/Soumyadeep/Downloads/PropWorth/web-app23.herokuapp.com/static/my_favicon.ico	(from https://web-app23.herokuapp.com/)
+00:05:46	2958/2958	---M--	200	added ('OK')	text/css	etag:%221617797998.0-2958-1585449074%22	https://web-app23.herokuapp.com/static/styles.css	C:/Users/Soumyadeep/Downloads/PropWorth/web-app23.herokuapp.com/static/styles.css	(from https://web-app23.herokuapp.com/)
+00:05:46	10865/10865	---MCZ	200	added ('OK')	text/javascript	date:Wed,%2007%20Apr%202021%2018:35:46%20GMT	https://kit.fontawesome.com/5f3f547070.js	C:/Users/Soumyadeep/Downloads/PropWorth/kit.fontawesome.com/5f3f547070.js	(from https://web-app23.herokuapp.com/)
